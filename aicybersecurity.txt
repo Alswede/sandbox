@@ -1,0 +1,11 @@
+AI Cybersecurity
+-----------------------------
+
+The cybersecurity arena faces significant challenges in the form of larges scale hacking attacks of
+ different types which harm organizations of all kinds and create billions of dollars in business 
+damage. Artificial intelligence and Natural Language Processing (NLP) has begun to be used by 
+security companies - for example SIEM (Security Information and Event Management) solutions. 
+The more advanced of these solutions use AI and NLP to automatically sort the data in networks 
+into high risk and low risk information. This enables security teams to focus on the attacks 
+that have the potential to do real harm to the organization, and not become victims of 
+attacks such as Denial of Service (DoS), Malware and others. 
