@@ -1,0 +1,26 @@
+Artificial intelligence arms race
+------------------------------------
+
+The main military applications of Artificial Intelligence and Machine Learning are to enhance C2, 
+Communications, Sensors, Integration and Interoperability. Artificial Intelligence technologies 
+enables coordination of sensors and effectors, threat detection and identification, marking of 
+enemy positions, target acquisition, coordination and deconfliction of distributed Join Fires 
+between networked combat vehicles and tanks also inside Manned and Unmanned Teams (MUM-T).
+
+Worldwide annual military spending on robotics rose from US$5.1 billion in 2010 to US$7.5 billion 
+in 2015.[318][319] Military drones capable of autonomous action are widely considered a useful
+asset. Many artificial intelligence researchers seek to distance themselves from military 
+applications of AI.
+
+In 2014, former Secretary of Defense Chuck Hagel posited the "Third Offset Strategy" that rapid 
+advances in artificial intelligence will define the next generation of warfare.According to data
+science and analytics firm Govini, The U.S. Department of Defense increased investment in 
+artificial intelligence, big data and cloud computing from $5.6 billion in 2011 to $7.4 billion in
+2016.However, the civilian NSF budget for AI saw no increase in 2017.
+The U.S. has many military AI combat programs, such as the Sea Hunter autonomous warship,
+which is designed to operate for extended periods at sea without a single crew member, and to even
+guide itself in and out of port. As of 2017, a temporary US Department of Defense directive
+requires a human operator to be kept in the loop when it comes to the taking of human life by 
+autonomous weapons systems. Japan Times reported in 2018 that the United States private 
+investment is around $70 billion per year.
+
