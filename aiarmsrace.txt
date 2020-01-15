@@ -17,6 +17,7 @@ advances in artificial intelligence will define the next generation of warfare.A
 science and analytics firm Govini, The U.S. Department of Defense increased investment in 
 artificial intelligence, big data and cloud computing from $5.6 billion in 2011 to $7.4 billion in
 2016.However, the civilian NSF budget for AI saw no increase in 2017.
+
 The U.S. has many military AI combat programs, such as the Sea Hunter autonomous warship,
 which is designed to operate for extended periods at sea without a single crew member, and to even
 guide itself in and out of port. As of 2017, a temporary US Department of Defense directive
