@@ -8,7 +8,7 @@ enemy positions, target acquisition, coordination and deconfliction of distribut
 between networked combat vehicles and tanks also inside Manned and Unmanned Teams (MUM-T).
 
 Worldwide annual military spending on robotics rose from US$5.1 billion in 2010 to US$7.5 billion 
-in 2015.[318][319] Military drones capable of autonomous action are widely considered a useful
+in 2015.[318]Military drones capable of autonomous action are widely considered a useful
 asset. Many artificial intelligence researchers seek to distance themselves from military 
 applications of AI.
 
