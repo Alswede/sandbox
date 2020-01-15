@@ -1,8 +1,6 @@
 
 # Database files
 .db
-# Log files
-.log
 
 # Directories
 target
